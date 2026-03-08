@@ -1,0 +1,16 @@
+Country,Inflation,GDP_Growth,Unemployment,Interest_Rate,Debt_to_GDP,Current_Account_Bal,FX_Reserves_Months,Budget_Balance,Risk_Score,Risk_Category,Cluster,Cluster_Label
+Argentina,211.4,-2.5,6.2,97.0,88.9,3.5,4.3,-6.9,72.61073349034652,High Risk,0,High Risk
+Egypt,33.9,3.8,11.9,21.25,92.7,-3.5,3.1,-11.4,44.61928187269834,Medium Risk,1,Medium Risk
+South Africa,6.9,1.9,32.7,8.25,70.2,-0.3,4.2,-6.0,43.5546709445887,Medium Risk,1,Medium Risk
+Turkey,64.3,5.1,10.1,45.0,29.7,-4.8,3.2,-5.2,43.485276230075854,Medium Risk,1,Medium Risk
+USA,4.1,2.5,3.7,5.5,129.0,-3.0,4.1,-8.8,39.14594272088334,Medium Risk,1,Medium Risk
+Japan,3.2,1.9,2.6,0.1,255.2,3.5,14.5,-5.6,37.79616738138443,Medium Risk,1,Medium Risk
+Nigeria,18.8,3.3,4.1,18.75,35.9,-2.4,4.7,-6.2,34.0941242836221,Medium Risk,1,Medium Risk
+Poland,11.4,0.9,2.9,6.75,49.8,-0.7,5.3,-5.1,33.47824756783746,Medium Risk,1,Medium Risk
+Brazil,5.8,2.9,8.7,13.75,87.9,-1.7,16.0,-6.1,33.339166523707334,Medium Risk,1,Medium Risk
+Mexico,4.7,3.4,2.8,11.25,53.8,-1.4,4.9,-4.2,30.726852953245753,Low Risk,1,Medium Risk
+Germany,6.9,1.9,3.0,4.5,66.3,4.5,5.2,-2.5,27.934854208951275,Low Risk,1,Medium Risk
+India,5.7,7.2,7.5,6.5,86.9,-1.6,11.0,-6.4,27.636771881368922,Low Risk,1,Medium Risk
+Indonesia,3.7,5.3,5.5,5.75,37.3,-1.0,6.5,-2.7,25.74208062738672,Low Risk,1,Medium Risk
+China,0.7,5.2,5.2,3.45,51.9,1.5,15.2,-7.8,23.277507010587055,Low Risk,1,Medium Risk
+Saudi Arabia,3.4,8.7,4.5,6.0,24.0,9.4,34.0,3.0,1.8008304913152522,Low Risk,2,Low Risk
