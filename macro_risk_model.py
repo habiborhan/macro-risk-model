@@ -1,16 +1,11 @@
-"""
-Macroeconomic Risk Scoring Model
-=================================
-Evaluates country-level risk using weighted economic indicators
-and K-Means clustering for segmentation.
-"""
+
 
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 import warnings
-warnings.filterwarnings('ignore')
+
 
 DATA = {
     "Country": [
